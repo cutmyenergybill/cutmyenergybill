@@ -1,6 +1,6 @@
-# Ellie
+# CutMyEnergy Bill
 
-A landing page template.
+A landing page, based on the Ellie template.
 
 * [Getting started](#getting-started)
 
